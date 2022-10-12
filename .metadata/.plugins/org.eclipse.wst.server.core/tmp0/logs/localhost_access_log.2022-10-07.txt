@@ -1,0 +1,11 @@
+127.0.0.1 - - [07/Oct/2022:18:11:11 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [07/Oct/2022:18:12:50 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [07/Oct/2022:18:13:12 +0530] "GET /spring-demo-mvc/ HTTP/1.1" 200 291
+127.0.0.1 - - [07/Oct/2022:18:13:14 +0530] "GET /spring-demo-mvc/customer/showForm HTTP/1.1" 200 871
+127.0.0.1 - - [07/Oct/2022:18:13:28 +0530] "POST /spring-demo-mvc/customer/processForm HTTP/1.1" 200 957
+127.0.0.1 - - [07/Oct/2022:18:13:34 +0530] "POST /spring-demo-mvc/customer/processForm HTTP/1.1" 200 282
+127.0.0.1 - - [07/Oct/2022:18:14:27 +0530] "POST /spring-demo-mvc/customer/processForm HTTP/1.1" 200 958
+127.0.0.1 - - [07/Oct/2022:18:14:33 +0530] "POST /spring-demo-mvc/customer/processForm HTTP/1.1" 200 283
+127.0.0.1 - - [07/Oct/2022:18:19:00 +0530] "POST /spring-demo-mvc/customer/processForm HTTP/1.1" 200 283
+127.0.0.1 - - [07/Oct/2022:18:19:06 +0530] "POST /spring-demo-mvc/customer/processForm HTTP/1.1" 200 282
+127.0.0.1 - - [07/Oct/2022:18:36:55 +0530] "GET /spring-demo-mvc/ HTTP/1.1" 200 291

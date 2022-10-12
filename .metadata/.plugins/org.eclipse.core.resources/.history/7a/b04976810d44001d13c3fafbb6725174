@@ -1,0 +1,21 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>Student Registration Form</title>
+	</head>
+	
+	<body>
+		
+		<form:form action = "processForm" modelAttribute="student">
+		
+			
+		
+		</form:form>
+		
+	</body>
+
+</html>

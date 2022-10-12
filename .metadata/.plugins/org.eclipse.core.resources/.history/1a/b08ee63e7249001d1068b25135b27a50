@@ -1,0 +1,30 @@
+package com.practice.hibernate.demo.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "review")
+public class Review {
+	
+	// define fields
+	
+	// define constructors
+	
+	// define getters/setters
+	
+	// define toString
+	
+	// annotate fields
+	
+	private int id;
+	
+	private String comment;
+	
+	public Review() {
+		
+	}
+	
+	
+
+}

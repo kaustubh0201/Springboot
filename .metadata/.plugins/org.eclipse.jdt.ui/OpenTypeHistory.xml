@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=spring-demo-annotations/lib\/spring-beans-5.3.9.jar&lt;org.springframework.beans.factory.config(BeanPostProcessor.class[BeanPostProcessor" modifiers="1537" timestamp="1664077639926"/>
+    <typeInfo handle="=spring-demo-annotations/lib\/spring-beans-5.3.9.jar&lt;org.springframework.beans.factory(BeanFactory.class[BeanFactory" modifiers="1537" timestamp="1664077639926"/>
+    <typeInfo handle="=spring-demo-annotations/lib\/spring-beans-5.3.9.jar&lt;org.springframework.beans.factory(DisposableBean.class[DisposableBean" modifiers="1537" timestamp="1664077639926"/>
+    <typeInfo handle="=spring-demo-annotations/src&lt;com.practice.springdemo{Coach.java[Coach" modifiers="513" timestamp="1664378676037"/>
+</typeInfoHistroy>

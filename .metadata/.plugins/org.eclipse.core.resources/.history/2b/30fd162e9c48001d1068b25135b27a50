@@ -1,0 +1,8 @@
+package com.practice.hibernate.demo.entity;
+
+
+@Entity
+@Table(name = "course")
+public class Course {
+
+}

@@ -1,0 +1,6 @@
+127.0.0.1 - - [04/Oct/2022:22:43:25 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Oct/2022:22:43:29 +0530] "GET /spring-demo-mvc/ HTTP/1.1" 200 159
+0:0:0:0:0:0:0:1 - - [04/Oct/2022:22:43:30 +0530] "GET /spring-demo-mvc/hello/showForm HTTP/1.1" 200 239
+0:0:0:0:0:0:0:1 - - [04/Oct/2022:22:43:33 +0530] "GET /spring-demo-mvc/hello/processFormVersionThree?studentName=kok HTTP/1.1" 200 151
+127.0.0.1 - - [04/Oct/2022:22:56:39 +0530] "GET /spring-demo-mvc/ HTTP/1.1" 200 159
+127.0.0.1 - - [04/Oct/2022:22:56:41 +0530] "GET /spring-demo-mvc/hello/showForm HTTP/1.1" 200 239

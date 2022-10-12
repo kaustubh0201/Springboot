@@ -1,0 +1,10 @@
+package com.practice.hibernate.demo;
+
+public class GetCoursesLater {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
