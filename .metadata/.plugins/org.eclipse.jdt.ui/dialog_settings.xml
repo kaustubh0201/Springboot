@@ -58,7 +58,7 @@
 		<item key="RemoveFinal" value="false"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="375"/>
+		<item key="DIALOG_X_ORIGIN" value="393"/>
 		<item key="DIALOG_Y_ORIGIN" value="-40"/>
 		<item key="DIALOG_WIDTH" value="629"/>
 		<item key="DIALOG_HEIGHT" value="739"/>
@@ -98,14 +98,14 @@
 		<item key="OmitCallToSuper" value="false"/>
 	</section>
 	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="641"/>
+		<item key="DIALOG_X_ORIGIN" value="649"/>
 		<item key="DIALOG_Y_ORIGIN" value="21"/>
 		<item key="DIALOG_WIDTH" value="614"/>
 		<item key="DIALOG_HEIGHT" value="721"/>
 		<item key="DIALOG_FONT_NAME" value="1|Sans|10.0|0|GTK|1|"/>
 	</section>
 	<section name="DialogBounds_GenerateToStringDialog">
-		<item key="DIALOG_X_ORIGIN" value="663"/>
+		<item key="DIALOG_X_ORIGIN" value="671"/>
 		<item key="DIALOG_Y_ORIGIN" value="2"/>
 		<item key="DIALOG_WIDTH" value="566"/>
 		<item key="DIALOG_HEIGHT" value="749"/>
@@ -117,13 +117,19 @@
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 		<item key="renameSubpackages" value="false"/>
-		<item key="updateTextualMatches" value="false"/>
+		<item key="updateTextualMatches" value="true"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
+		<item key="updateSimilarElements" value="false"/>
+		<item key="updateSimilarElementsMatchStrategy" value="1"/>
+		<item key="renameGetter" value="true"/>
+		<item key="renameSetter" value="true"/>
 	</section>
 	<section name="ExtractMethodWizard">
 		<item key="ThrowRuntimeExceptions" value="false"/>
 		<item key="GenerateJavadoc" value="false"/>
 		<item key="AccessModifier" value="2"/>
+	</section>
+	<section name="RenameInformationPopup">
 	</section>
 </section>
