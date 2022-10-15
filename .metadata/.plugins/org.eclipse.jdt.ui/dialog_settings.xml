@@ -35,7 +35,7 @@
 		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History/&gt;"/>
 	</section>
 	<section name="DialogBounds_SuperInterfaceSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="136"/>
+		<item key="DIALOG_X_ORIGIN" value="140"/>
 		<item key="DIALOG_Y_ORIGIN" value="0"/>
 		<item key="DIALOG_WIDTH" value="416"/>
 		<item key="DIALOG_HEIGHT" value="568"/>
@@ -58,7 +58,7 @@
 		<item key="RemoveFinal" value="false"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="393"/>
+		<item key="DIALOG_X_ORIGIN" value="395"/>
 		<item key="DIALOG_Y_ORIGIN" value="-40"/>
 		<item key="DIALOG_WIDTH" value="629"/>
 		<item key="DIALOG_HEIGHT" value="739"/>
@@ -105,7 +105,7 @@
 		<item key="DIALOG_FONT_NAME" value="1|Sans|10.0|0|GTK|1|"/>
 	</section>
 	<section name="DialogBounds_GenerateToStringDialog">
-		<item key="DIALOG_X_ORIGIN" value="671"/>
+		<item key="DIALOG_X_ORIGIN" value="673"/>
 		<item key="DIALOG_Y_ORIGIN" value="2"/>
 		<item key="DIALOG_WIDTH" value="566"/>
 		<item key="DIALOG_HEIGHT" value="749"/>
