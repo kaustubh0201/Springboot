@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.SessionFactory"/>
     <fullyQualifiedTypeName name="java.lang.module.Configuration"/>
     <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
     <fullyQualifiedTypeName name="com.practice.hibernate.demo.entity.Employee"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="com.practice.aopdemo.dao.MembershipDAO"/>
     <fullyQualifiedTypeName name="com.practice.aopdemo.Account"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Pointcut"/>
 </qualifiedTypeNameHistroy>
