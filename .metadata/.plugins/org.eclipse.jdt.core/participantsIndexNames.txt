@@ -3,6 +3,8 @@ INDEX VERSION 1.131
 /web-customer-tracker/src
 /home/kaustubh0201/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1458465287.index
 /spring-demo-mvc/src
+/home/kaustubh0201/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2770595390.index
+/spring-security-demo-05-logout/src/main/java
 /home/kaustubh0201/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4017020249.index
 /spring-security-demo/src/main/java
 /home/kaustubh0201/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/517894682.index
