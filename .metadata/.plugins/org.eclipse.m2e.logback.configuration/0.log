@@ -2139,3 +2139,23 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2022-10-30 22:09:21,759 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/main/resources
 2022-10-30 22:09:21,762 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-10-30 22:09:21,765 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/test/resources
+2022-10-30 22:13:52,236 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-30 22:13:52,237 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/main/resources
+2022-10-30 22:13:52,240 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-30 22:13:52,241 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/test/resources
+2022-10-30 22:14:39,000 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-30 22:14:39,001 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/main/resources
+2022-10-30 22:14:39,004 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-30 22:14:39,005 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/test/resources
+2022-10-30 22:15:33,286 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-30 22:15:33,286 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/main/resources
+2022-10-30 22:15:33,289 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-30 22:15:33,289 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/test/resources
+2022-10-30 22:16:01,618 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-30 22:16:01,618 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/main/resources
+2022-10-30 22:16:01,621 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-30 22:16:01,622 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/test/resources
+2022-10-30 22:16:05,594 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-30 22:16:05,596 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/main/resources
+2022-10-30 22:16:05,601 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-30 22:16:05,602 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/spring-security-demo-07-user-roles/src/test/resources
