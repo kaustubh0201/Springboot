@@ -12,7 +12,7 @@
 		
 		<hr>
 		
-		<p>	
+		<p>
 			
 			Annual Admin Retreat!
 		
