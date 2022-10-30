@@ -17,6 +17,8 @@ INDEX VERSION 1.131
 /spring-security-demo-04-bootstrap-login-form/src/main/java
 /home/kaustubh0201/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2875964330.index
 /web-customer-tracker-aop/src
+/home/kaustubh0201/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/479900100.index
+/spring-security-demo-08-jdbc-plaintext/src/main/java
 /home/kaustubh0201/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1235661612.index
 /web-customer-tracker-aop/src
 /home/kaustubh0201/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3750454120.index
