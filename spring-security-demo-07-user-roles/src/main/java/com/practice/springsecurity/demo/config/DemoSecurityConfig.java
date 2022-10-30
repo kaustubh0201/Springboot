@@ -16,7 +16,7 @@ public class DemoSecurityConfig extends WebSecurityConfigurerAdapter{
 	@Override
 	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 		
-		// add our users for in memeory authentication
+		// add our users for in memory authentication
 		
 		UserBuilder users = User.withDefaultPasswordEncoder();
 		
@@ -30,16 +30,29 @@ public class DemoSecurityConfig extends WebSecurityConfigurerAdapter{
 	@Override
 	protected void configure(HttpSecurity http) throws Exception {
 		
+//		http.authorizeRequests()
+//			.antMatchers("/css/**").permitAll()
+//			.anyRequest().authenticated()
+//			.and()
+//			.formLogin()
+//				.loginPage("/showMyLoginPage")
+//				.loginProcessingUrl("/authenticateTheUser")
+//				.permitAll()
+//			.and()
+//			.logout().permitAll();
+		
 		http.authorizeRequests()
-			.antMatchers("/css/**").permitAll()
-			.anyRequest().authenticated()
-			.and()
-			.formLogin()
-				.loginPage("/showMyLoginPage")
-				.loginProcessingUrl("/authenticateTheUser")
-				.permitAll()
-			.and()
-			.logout().permitAll();
+		.antMatchers("/css/**").permitAll()
+		.antMatchers("/").hasRole("EMPLOYEE")
+		.antMatchers("/leaders/**").hasRole("MANAGER")
+		.antMatchers("/systems/**").hasRole("ADMIN")
+		.and()
+		.formLogin()
+			.loginPage("/showMyLoginPage")
+			.loginProcessingUrl("/authenticateTheUser")
+			.permitAll()
+		.and()
+		.logout().permitAll();
 		
 	}
 
