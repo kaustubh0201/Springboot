@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="RefactoringWizard.preview">
 		<item key="width" value="550"/>
-		<item key="height" value="340"/>
+		<item key="height" value="310"/>
 	</section>
 	<section name="InferTypeArguments">
 		<item key="assumeCloneReturnsSameType" value="true"/>

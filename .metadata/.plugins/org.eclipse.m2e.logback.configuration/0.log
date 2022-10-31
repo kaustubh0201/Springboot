@@ -2939,3 +2939,177 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected ST
 2022-10-31 00:23:34,656 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-security-demo-09-jdbc-bcrypt
 2022-10-31 00:23:34,656 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-security-demo-09-jdbc-bcrypt
 2022-10-31 00:23:34,658 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 17:59:13,705 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-31 19:03:25,144 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2022-10-31 19:03:25,493 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2022-10-31 19:03:25,951 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code:jackson-databind-json-demo:1.0.0 @ /home/kaustubh0201/eclipse-workspace/jackson-databinding-json-demo/pom.xml.
+2022-10-31 19:03:26,154 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2022-10-31 19:03:26,325 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2022-10-31 19:03:26,543 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2022-10-31 19:03:26,987 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2022-10-31 19:03:27,163 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jackson-databinding-json-demo/src/main/java
+2022-10-31 19:03:27,164 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jackson-databinding-json-demo/src/test/java
+2022-10-31 19:03:27,221 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2022-10-31 19:03:27,633 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:03:27,635 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databinding-json-demo/src/main/resources
+2022-10-31 19:03:27,638 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:03:27,638 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databinding-json-demo/src/test/resources
+2022-10-31 19:04:17,682 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.practice:jackson-databind-json-demo:1.0.0 @ /home/kaustubh0201/eclipse-workspace/jackson-databinding-json-demo/pom.xml.
+2022-10-31 19:04:17,797 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:04:17,799 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databinding-json-demo/src/main/resources
+2022-10-31 19:04:17,802 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:04:17,803 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databinding-json-demo/src/test/resources
+2022-10-31 19:04:31,048 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.practice:jackson-databind-json-demo:1.0.0 @ /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/pom.xml.
+2022-10-31 19:04:31,060 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:04:31,061 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:04:31,064 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:04:31,065 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:06:43,344 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.practice:jackson-databind-json-demo:1.0.0 @ /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/pom.xml.
+2022-10-31 19:06:43,499 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:06:43,500 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:06:43,510 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:06:43,511 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:06:45,199 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.fasterxml.jackson.databind/2.10.5.1.LIFERAY-PATCHED-1/com.fasterxml.jackson.databind-2.10.5.1.LIFERAY-PATCHED-1-sources.jar
+2022-10-31 19:06:45,209 [Worker-28: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.liferay:com.fasterxml.jackson.databind:2.10.5.1.LIFERAY-PATCHED-1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.liferay:com.fasterxml.jackson.databind:jar:sources:2.10.5.1.LIFERAY-PATCHED-1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:608) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:219) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:577) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:562) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:270) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-10-31 19:06:45,312 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:06:45,313 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:06:45,314 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:06:45,316 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:07:34,507 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.practice:jackson-databind-json-demo:1.0.0 @ /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/pom.xml.
+2022-10-31 19:07:35,300 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.14-rc3/jackson-parent-2.14-rc3.pom
+2022-10-31 19:07:35,553 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.14-rc3/jackson-parent-2.14-rc3.pom
+2022-10-31 19:07:35,687 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/48/oss-parent-48.pom
+2022-10-31 19:07:35,935 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/48/oss-parent-48.pom
+2022-10-31 19:07:36,128 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.0-rc3/jackson-annotations-2.14.0-rc3.pom
+2022-10-31 19:07:36,252 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.0-rc3/jackson-annotations-2.14.0-rc3.pom
+2022-10-31 19:07:36,388 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.0-rc3/jackson-core-2.14.0-rc3.pom
+2022-10-31 19:07:36,514 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.0-rc3/jackson-core-2.14.0-rc3.pom
+2022-10-31 19:07:36,644 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.0-rc3/jackson-databind-2.14.0-rc3.jar
+2022-10-31 19:07:36,769 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.0-rc3/jackson-annotations-2.14.0-rc3.jar
+2022-10-31 19:07:36,769 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.0-rc3/jackson-core-2.14.0-rc3.jar
+2022-10-31 19:07:37,185 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.0-rc3/jackson-annotations-2.14.0-rc3.jar
+2022-10-31 19:07:37,610 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.0-rc3/jackson-core-2.14.0-rc3.jar
+2022-10-31 19:07:38,170 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.0-rc3/jackson-databind-2.14.0-rc3.jar
+2022-10-31 19:07:38,219 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:07:38,219 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:07:38,222 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:07:38,223 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:07:39,527 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:07:39,529 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:07:39,534 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:07:39,535 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:07:40,269 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.0-rc3/jackson-databind-2.14.0-rc3-sources.jar
+2022-10-31 19:07:45,715 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.0-rc3/jackson-databind-2.14.0-rc3-sources.jar
+2022-10-31 19:07:45,716 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.14.0-rc3
+2022-10-31 19:07:46,229 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.0-rc3/jackson-annotations-2.14.0-rc3-sources.jar
+2022-10-31 19:07:46,558 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.0-rc3/jackson-annotations-2.14.0-rc3-sources.jar
+2022-10-31 19:07:46,560 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.14.0-rc3
+2022-10-31 19:07:47,088 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.0-rc3/jackson-core-2.14.0-rc3-sources.jar
+2022-10-31 19:07:47,733 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.0-rc3/jackson-core-2.14.0-rc3-sources.jar
+2022-10-31 19:07:47,734 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.14.0-rc3
+2022-10-31 19:07:48,184 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:07:48,184 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:07:48,186 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:07:48,186 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:08:23,705 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:08:23,706 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:08:23,714 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:08:23,716 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:08:31,369 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:08:31,370 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:08:31,374 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:08:31,375 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:25:22,529 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:25:22,530 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:25:22,534 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:25:22,535 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:25:33,929 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:25:33,930 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:25:33,935 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:25:33,937 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:26:19,141 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:26:19,142 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:26:19,144 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:26:19,146 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:29:25,123 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:29:25,124 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:29:25,126 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:29:25,127 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:30:37,140 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:30:37,141 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:30:37,144 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:30:37,145 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:30:44,759 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:30:44,760 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:30:44,762 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:30:44,763 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:31:33,347 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:31:33,348 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:31:33,351 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:31:33,351 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:32:04,275 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:32:04,275 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:32:04,277 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:32:04,278 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:32:07,881 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:32:07,881 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:32:07,883 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:32:07,883 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:36:23,541 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:36:23,542 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:36:23,547 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:36:23,547 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:36:54,472 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:36:54,475 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:36:54,485 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:36:54,489 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:37:33,043 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:37:33,043 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:37:33,045 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:37:33,045 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:37:40,018 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:37:40,018 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:37:40,020 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:37:40,020 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:37:41,337 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:37:41,337 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:37:41,339 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:37:41,339 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:37:56,716 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:37:56,717 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:37:56,722 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:37:56,724 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:38:18,000 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:38:18,007 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:38:18,009 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:38:18,010 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:38:37,405 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:38:37,406 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:38:37,412 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:38:37,416 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:39:19,572 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:39:19,573 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:39:19,575 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:39:19,575 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
+2022-10-31 19:39:33,531 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:39:33,532 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/main/resources
+2022-10-31 19:39:33,534 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 19:39:33,534 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/kaustubh0201/eclipse-workspace/jackson-databind-json-demo/src/test/resources
